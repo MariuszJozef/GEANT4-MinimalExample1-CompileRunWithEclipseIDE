@@ -1,5 +1,5 @@
 # GEANT4 - A Minimal Working Example with Eclipse IDE 
-A rudimentary example to get started with GEANT4 simulations; no sensitive detector here.
+A rudimentary example to get started with GEANT4 simulations; no sensitive detector here. (Readout with sensitive detectors will be included afterwards too).
 
 Here are pictorial instructions of how to compile GEANT4 with Eclipse IDE. (This information is not readily available so I include it here with the hope that it may be useful to others).
 
