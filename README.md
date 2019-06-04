@@ -13,9 +13,9 @@ Following a successful GEANT4 installation on a Mac/Linux platorm, proceed as fo
 
 <img width="1197" alt="image" src="https://user-images.githubusercontent.com/51378175/58911723-bc528400-8718-11e9-85e1-822822f73c1d.png">
 
-Make sure to build the project before continuing with the subsequent steps. 
-
 <img width="1130" alt="image" src="https://user-images.githubusercontent.com/51378175/58910972-21a57580-8717-11e9-902c-d4d5a1c8d20a.png">
+
+Be sure to build the project before continuing with the subsequent steps. 
 
 <img width="1037" alt="image" src="https://user-images.githubusercontent.com/51378175/58913171-e78aa280-871b-11e9-85cc-cb76de99d380.png">
 
@@ -25,3 +25,4 @@ Make sure to build the project before continuing with the subsequent steps.
 
 <img width="1431" alt="image" src="https://user-images.githubusercontent.com/51378175/58912828-41d73380-871b-11e9-9e1d-45cb61abb894.png">
 
+<img width="1116" alt="image" src="https://user-images.githubusercontent.com/51378175/58913917-924f9080-871d-11e9-9199-ecccb7d1b240.png">
