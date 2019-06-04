@@ -27,4 +27,4 @@ Be sure to build the project before continuing with the subsequent steps.
 
 <img width="1116" alt="image" src="https://user-images.githubusercontent.com/51378175/58913917-924f9080-871d-11e9-9199-ecccb7d1b240.png">
 
-Notice that GEANT4 specific keywords G4cout and G4endl have been used and no using namespace std statement.
+Notice that GEANT4 specific keywords: G4cout and G4endl have been used and no statement: using namespace std.
