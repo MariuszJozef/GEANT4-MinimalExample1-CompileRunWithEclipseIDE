@@ -1,4 +1,4 @@
-# GEANT4-MinimalWorkingExample1
+# GEANT4 - A Minimal Working Example with Eclipse IDE 
 A rudimentary example to get started with GEANT4 simulations; no sensitive detector here.
 
 Here are pictorial instructions of how to compile GEANT4 with Eclipse IDE. (This information is not readily available so I include it here with the hope that it may be useful to others).
@@ -12,3 +12,11 @@ Here are pictorial instructions of how to compile GEANT4 with Eclipse IDE. (This
 <img width="1197" alt="image" src="https://user-images.githubusercontent.com/51378175/58911723-bc528400-8718-11e9-85e1-822822f73c1d.png">
 
 <img width="1130" alt="image" src="https://user-images.githubusercontent.com/51378175/58910972-21a57580-8717-11e9-902c-d4d5a1c8d20a.png">
+
+<img width="1037" alt="image" src="https://user-images.githubusercontent.com/51378175/58913171-e78aa280-871b-11e9-85cc-cb76de99d380.png">
+
+<img width="1042" alt="image" src="https://user-images.githubusercontent.com/51378175/58912916-7519c280-871b-11e9-9073-24e93ff1bce9.png">
+
+<img width="1418" alt="image" src="https://user-images.githubusercontent.com/51378175/58912391-35061000-871a-11e9-9e6d-44d05ccd375f.png">
+
+<img width="1431" alt="image" src="https://user-images.githubusercontent.com/51378175/58912828-41d73380-871b-11e9-9e1d-45cb61abb894.png">
