@@ -36,4 +36,4 @@ To avoid retyping these settings for every new project, instead of doing: File >
 
 If your new project does not show up in the Project Explorer, you may need to add it to your current Working Set like so (that's if you have set up Working Sets to organise your projects):
 
-![Add a new project to your Working Set](GEANT4-MinimalWorkingExample21_WorkingSet.gif)
+![Add a new project to your Working Set](GEANT4-MinimalWorkingExample1_WorkingSet.gif)
