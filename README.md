@@ -1,5 +1,5 @@
 # GEANT4 - A Bare Bones Example with Eclipse IDE 
-A rudimentary example to get started with GEANT4 simulations with Eclipse. The code herein consists only of a minimal main function; the essential classes: DetectorConstruction, PhysicsList and PrimaryGeneratorAction are not included yet - but it compiles and runs! These three essential classes will be added in the next example. Afterwards a sensitive detector will be build to read out information from radiation-matter interactions.
+The code herein consists only of a minimal main function; the essential classes: DetectorConstruction, PhysicsList and PrimaryGeneratorAction are not included yet - but it compiles on Eclipse and runs! These three essential classes will be added in the next example. Afterwards a sensitive detector will be build to read out information from radiation-matter interactions.
 
 Here are pictorial instructions of how to compile GEANT4 with Eclipse IDE. (This information is not readily available so I include it here with the hope that it may be useful to others).
 
