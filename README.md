@@ -28,3 +28,9 @@ Be sure to build the project before continuing with the subsequent steps.
 <img width="1116" alt="image" src="https://user-images.githubusercontent.com/51378175/58913917-924f9080-871d-11e9-9199-ecccb7d1b240.png">
 
 Notice that GEANT4 specific keywords: G4cout and G4endl have been used and no statement: using namespace std.
+
+# N.B.
+To avoid retyping these settings for every new project, instead of doing: File >> New >> C++ Project, you can simply compy this project. That way the compilation flags and location of header files will be set automatically. Nevertheless it is still necessary to manually set Run >> Run Configurations, as shown above.
+
+<img width="716" alt="image" src="https://user-images.githubusercontent.com/51378175/58955855-40e6e600-879d-11e9-9e3c-1ae55bd8dce0.png">
+
