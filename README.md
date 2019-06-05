@@ -29,8 +29,11 @@ Be sure to build the project before continuing with the subsequent steps.
 
 Notice that GEANT4 specific keywords: G4cout and G4endl have been used and no statement: using namespace std.
 
-# N.B.
-To avoid retyping these settings for every new project, instead of doing: File >> New >> C++ Project, you can simply compy this project. That way the compilation flags and location of header files will be set automatically. Nevertheless it is still necessary to manually set Run >> Run Configurations, as shown above.
+## N.B.
+To avoid retyping these settings for every new project, instead of doing: File >> New >> C++ Project, you can simply copy this project. That way the compilation flags and location of header files will be set automatically. Nevertheless it is still necessary to manually set Run >> Run Configurations, as shown above.
 
 <img width="716" alt="image" src="https://user-images.githubusercontent.com/51378175/58955855-40e6e600-879d-11e9-9e3c-1ae55bd8dce0.png">
 
+If your new project does not show up in the Project Explorer, you may need to add it to your current Working Set like so (that's if you have set up Working Sets to organise your projects):
+
+![Add a new project to your Working Set](GEANT4-MinimalWorkingExample21_WorkingSet.gif)
