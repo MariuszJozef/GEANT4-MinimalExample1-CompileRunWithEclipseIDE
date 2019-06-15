@@ -11,7 +11,7 @@ Following a successful GEANT4 installation on a Mac/Linux platorm, proceed as fo
 
 <img width="1177" alt="image" src="https://user-images.githubusercontent.com/51378175/59552981-cb45fb80-8f8e-11e9-963d-d1b69a1f2365.png">
 
-If your compiler supports C++11 or C++14 features but not C++17, you may type -std=c++11 or -std=c++14 instead. Otherwise you may leave this flag out, but then you will have to write pre-modern C++ code. Either way the flags \`geant4-config --cflags\` and (further below) \`geant4-config --libs\` are mandatory.
+If your compiler supports C++11 or C++14 features but not C++17, you may type -std=c++11 or -std=c++14 instead. Otherwise you may leave this flag out, but then you will have to write pre-modern C++ code. Either way the flags \`geant4-config --cflags\` and (see further below) \`geant4-config --libs\` are mandatory.
 
 <img width="1197" alt="image" src="https://user-images.githubusercontent.com/51378175/58911723-bc528400-8718-11e9-85e1-822822f73c1d.png">
 
