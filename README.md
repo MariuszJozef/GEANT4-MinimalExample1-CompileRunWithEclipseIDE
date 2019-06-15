@@ -9,6 +9,10 @@ Following a successful GEANT4 installation on a Mac/Linux platorm, proceed as fo
 
 <img width="1040" alt="image" src="https://user-images.githubusercontent.com/51378175/58911376-f5d6bf80-8717-11e9-82bb-4c28bb30830c.png">
 
+<img width="1177" alt="image" src="https://user-images.githubusercontent.com/51378175/59552981-cb45fb80-8f8e-11e9-963d-d1b69a1f2365.png">
+
+If your compiler supports C++11 or C++14 features but not C++17, you may type -std=c++11 or -std=c++14 instead. Otherwise you may leave this flag out, but then you will have to write pre-modern C++ code. Either way the flahs `geant4-config --cflags` and (further below) `geant4-config --libs` are mandatory.
+
 <img width="1126" alt="image" src="https://user-images.githubusercontent.com/51378175/58910770-aba10e80-8716-11e9-91c9-123f1ad48dc3.png">
 
 <img width="1197" alt="image" src="https://user-images.githubusercontent.com/51378175/58911723-bc528400-8718-11e9-85e1-822822f73c1d.png">
